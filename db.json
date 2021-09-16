@@ -1,0 +1,8 @@
+{
+  "livros": [
+    { "id": 1, "titulo": "Nove Noites", "autor": "Bernardo Carvalho" },
+    { "id": 2, "titulo": "Tudo tem seu preço", "autor": "Zibia Gasparetto" },
+    { "id": 3, "titulo": "O Tatuador de Auschwitz", "autor": "Heather Morris" },
+    { "id": 4, "titulo": "Me Chame Pelo Seu Nome", "": "André Aciman" }
+  ]
+}
